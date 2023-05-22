@@ -1,0 +1,51 @@
+{
+    "os": "Linux-5.15.109+-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.12",
+    "heartbeatAt": "2023-05-15T12:08:35.150792",
+    "startedAt": "2023-05-15T12:08:33.442227",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "kaggle.ipynb",
+    "root": "/kaggle/working",
+    "host": "91bc6937e055",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2249.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 8062.387607574463,
+        "used": 4637.435924530029
+    },
+    "memory": {
+        "total": 31.357608795166016
+    }
+}

@@ -1,0 +1,5 @@
+		mean_RMSE 	std_RMSE
+TabNet no scheduler	0.16141		0.00343
+TabNet StepLR	0.15316		0.00301
+TabNet Cosine	0.13719		0.00414
+TabNet Plateau	0.16141		0.00343
